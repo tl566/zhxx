@@ -5,8 +5,10 @@
 
 ⭐⭐⭐8分钟学完45分！⭐⭐⭐
 
-![软件截图](https://kingcata.github.io/xx/ui.jpg)
+![软件截图](https://s1.ax1x.com/2022/10/13/xa6JRe.jpg)
 
 [下载 7z格式](https://kingcata.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0.7z)
 
 [下载 zip格式](https://kingcata.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0.zip)
+
+[多开 7z格式](https://avin999.github.io/xx/%E5%AD%A6%E4%B9%A0%E8%BE%BE%E4%BA%BA.7z)
