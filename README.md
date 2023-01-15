@@ -11,7 +11,7 @@
 
 ### 解压密码 123
 
-[下载 7z格式](https://kingcata.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0.7z)
+[下载 7z格式](https://kingcata.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A01.7z)
 
 [下载 多开版](https://avin999.github.io/xx/%E5%AD%A6%E4%B9%A0%E8%BE%BE%E4%BA%BA.7z)
 
